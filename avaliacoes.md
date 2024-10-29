@@ -1,7 +1,6 @@
-# Semáforo | Atividade Ponderada
+# Exercício do Semáforo
 
-### Avaliadora: Yasmin
-### Avaliada: Mirella
+### Avaliadora: Yasmin | Avaliada: Mirella
 
 | Critério                                                                                                 | Contempla (Pontos) | Contempla Parcialmente (Pontos) | Não Contempla (Pontos) | Observações do Avaliador |
 |---------------------------------------------------------------------------------------------------------|--------------------|----------------------------------|--------------------------|---------------------------|
@@ -14,12 +13,11 @@
 
 
 
-### Avaliadora: Mirella
-### Avaliada: Yasmin
+### Avaliadora: Mirella | Avaliada: Yasmin
 
 | Critério                                                                                                 | Contempla (Pontos) | Contempla Parcialmente (Pontos) | Não Contempla (Pontos) | Observações do Avaliador |
 |---------------------------------------------------------------------------------------------------------|--------------------|----------------------------------|--------------------------|---------------------------|
-| Montagem física com cores corretas, boa disposição dos fios e uso adequado de resistores                | Até 3              | Até 1,5                            | 0                        | (3) Contempla: Os fios foram dispostos corretamente! Yasmin também utilizou os resistores de forma adequada. |
+| Montagem física com cores corretas, boa disposição dos fios e uso adequado de resistores                | Até 3              | Até 1,5                            | 0                        | (3) Contempla: Os fios foram dispostos corretamente. Yasmin também utilizou os resistores de forma adequada. |
 | Temporização adequada conforme tempos medidos com auxílio de algum instrumento externo                  | Até 3              | Até 1,5                          | 0                        | (3) Contempla: A temporização segue os critérios do professor. |
 | Código implementa corretamente as fases do semáforo e estrutura do código (variáveis representativas e comentários) | Até 3              | Até 1,5                          | 0                        | (3) Contempla: O semáforo apresenta as fases esperadas e o código está comentado. |
 | Extra: Implmeentou um componente de liga/desliga no semáforo e/ou usou ponteiros no código | Até 1              |  Até 0,5                         | 0                        | (1) Contempla: Yasmin utilizou ponteiros no seu código.                         |
